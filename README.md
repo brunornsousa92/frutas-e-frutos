@@ -1,9 +1,49 @@
-# frutas-e-frutos
-Página Web sendo desenvolvido durante o curso de Bootstrap 4: criando uma landing page responsiva
-
 <h4 align="center"> 
 	🚧  Frutas & Frutos 🚀 Em construção...  🚧
 </h4>
+
+<div align="center"> 
+  
+  <br> 
+
+ ![Logo Frutas e Frutos](https://github.com/brunornsousa92/culturama/assets/17336588/cfc135c7-2f9b-4e81-87cd-c7e21f49909c) <br> 
+ # Frutas & Frutos
+  
+</div>
+
+![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-FINALIZADO-blue)
+
+# Resumo do projeto
+Página Web sendo desenvolvido durante o curso de Bootstrap 4: criando uma landing page responsiva
+
+<div align="center"> 
+
+![Logo Frutas e Frutos](https://github.com/brunornsousa92/frutas-e-frutos/assets/17336588/cad982f8-60f6-43df-8261-325b13b03e09)
+  
+</div>
+
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Página web responsiva para dispositivos mobile.
+- `Funcionalidade 2`: Página web responsiva para desktop.
+
+<div align="center">
+
+![GIF da Fruta e Fruto](https://github.com/brunornsousa92/frutas-e-frutos/assets/17336588/e4d60e96-6714-47b8-bcb4-7d3ad17982af)
+
+</div>
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``HTML``
+- ``CSS``
+- ``Bootstrap``
+
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/brunornsousa92/frutas-e-frutos).
+
+## :globe_with_meridians: Acesso ao site
+Você pode acessar o site do projeto clicando [aqui](https://culturama-xi-kohl.vercel.app).
 
 ### Autor
 ---
