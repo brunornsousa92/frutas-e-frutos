@@ -1,13 +1,6 @@
-<h4 align="center"> 
-	🚧  Frutas & Frutos 🚀 Em construção...  🚧
-</h4>
-
 <div align="center"> 
-  
-  <br> 
 
- ![Logo Frutas e Frutos](https://github.com/brunornsousa92/culturama/assets/17336588/cfc135c7-2f9b-4e81-87cd-c7e21f49909c) <br> 
- # Frutas & Frutos
+![Logo Frutas e Frutos](https://github.com/brunornsousa92/frutas-e-frutos/assets/17336588/a76e51ae-b740-42f5-9c05-38d64a89f25c)<br> 
   
 </div>
 
