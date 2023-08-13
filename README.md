@@ -36,7 +36,7 @@ Página Web sendo desenvolvido durante o curso de Bootstrap 4: criando uma landi
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/brunornsousa92/frutas-e-frutos).
 
 ## :globe_with_meridians: Acesso ao site
-Você pode acessar o site do projeto clicando [aqui](https://culturama-xi-kohl.vercel.app).
+Você pode acessar o site do projeto clicando [aqui](https://frutas-e-frutos-lovat.vercel.app).
 
 ### Autor
 ---
